@@ -349,7 +349,7 @@ export class Accessibility {
         ._access-menu ._text-center {
             text-align: center;
         }
-        ._access-menu h3 {
+        ._access-menu div {
             font-size: 24px !important;
             margin-top: 20px;
             margin-bottom: 20px;
@@ -548,7 +548,7 @@ export class Accessibility {
             },
             children: [
                 {
-                    type: 'h3',
+                    type: 'div',
                     attrs: {
                         'class': '_text-center'
                     },
