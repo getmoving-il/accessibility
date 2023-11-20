@@ -22,7 +22,7 @@ let _options = {
         img: 'accessible',
         circular: false,
         circularBorder: false,
-        fontFaceSrc: ['https://fonts.googleapis.com/icon?family=Material+Icons'],
+        fontFaceSrc: ['https://fonts.googleapis.com/icon?family=Material+Icons&display=swap'],
         fontFamily: common.getFixedFont('Material Icons'),
         fontClass: 'material-icons',
         useEmojis: false
